@@ -41,5 +41,5 @@ A simple and intuitive web-based drawing application that allows users to create
 - No external dependencies required
 
 ## Preview
-[Click here to draw!](https://maripirczak.github.io/tic-tac-toe-game/](https://maripirczak.github.io/drawing-board/)
+[Click here to draw!](https://maripirczak.github.io/drawing-board/)
 
