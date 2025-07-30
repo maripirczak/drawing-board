@@ -4,21 +4,11 @@ A simple and intuitive web-based drawing application that allows users to create
 ## Features
   ### 🎨 Drawing Tools
   - **Freehand Drawing**: Draw smooth lines and curves with your mouse or touch device
-  - **Color Palette**: Choose from 8 colors:
-  <span style="color:black;">Black, </span>
-  <span style="color:yellow;">Yellow, </span>
-  <span style="color:red;">Red, </span>
-  <span style="color:blue;">Blue, </span>
-  <span style="color:green;">Green, </span>
-  <span style="color:orange;">Orange, </span>
-  <span style="color:purple;">Purple, </span>
-  and
-  <span style="color:gray;">Gray.</span>
+  - **Color Palette**: Choose from 8 colors: Black ⚫, Yellow 🟡, Red 🔴, Blue 🔵, Green 🟢, Orange 🟠, Purple 🟣 and Gray 🔘.
   
   ### 🖼️ Canvas Management
-  - Clean Board: Clear the entire canvas with a single click
-  - Save & Export: Right-click on the canvas to save or copy your artwork
-  - Responsive Design: Works on desktop and mobile devices
+  - **Clean Board**: Clear the entire canvas with a single click
+  - **Save & Export**: Right-click on the canvas to save or copy your artwork
 
 ## How to use
   ### Drawing
